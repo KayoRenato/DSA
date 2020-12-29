@@ -137,7 +137,6 @@ echo ${ARRAY[@]}
 exec 0<&10 10<&-
 
 
-
 #!/bin/bash
 # ==============================
 # Script: copyfiles.sh
